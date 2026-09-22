@@ -1,0 +1,4 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "dbt.dbtPythonPathOverride": "C:\\Users\\nmamedov\\dbt_course_workdir\\dbt-env\\Scripts\\python.exe"
+}
